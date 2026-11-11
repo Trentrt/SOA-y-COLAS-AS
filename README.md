@@ -1,7 +1,7 @@
 # BikeStore Async v1.0
 
 Aplicación asíncrona de pedidos para una tienda de bicicletas con **Java 17 + RabbitMQ**.
-ISWZ2202 - Diseño y Arquitectura de Software. Autor: [Tu nombre]
+ISWZ2202 - Diseño y Arquitectura de Software. Andres Sigcha
 
 ## ¿Cómo funciona?
 
